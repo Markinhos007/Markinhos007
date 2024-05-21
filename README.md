@@ -9,7 +9,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/markinhoss2000)
 
 ![Markos GitHub stats](https://github-readme-stats.vercel.app/api?username=Markinhos007&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markinhos007)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias usadas no meu dia a dia
