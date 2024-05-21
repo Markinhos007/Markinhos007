@@ -1,6 +1,6 @@
 
 
-### Olá, Eu Sou O Markos Samuell 😁
+### Olá, Eu Sou Markos Samuell 😁
 
 [![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)](https://www.ea.com/pt-br) 
 [![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR)
